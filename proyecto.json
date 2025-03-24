@@ -1,0 +1,135 @@
+{
+    "estado": "ok",
+    "totalResultados": 15,
+    "articulos": [
+      {
+        "fuente": {
+          "id": "techcrunch",
+          "nombre": "TechCrunch",
+          "categorias": ["Tecnología", "IA"]
+        },
+        "autor": {
+          "nombre": "Lauren Forristal",
+          "social": ["@laurentech", "linkedin.com/in/laurenforristal"]
+        },
+        "titulo": "Adiós bots: La IA de Altera para videojuegos recibe inversión de Eric Schmidt",
+        "descripcion": "Altera ha recaudado 9 millones de dólares para desarrollar agentes de IA que puedan jugar videojuegos junto a otros jugadores.",
+        "url": "https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/",
+        "urlImagen": "https://techcrunch.com/wp-content/uploads/2024/05/Minecraft-keyart.jpg",
+        "publicadoEn": "2024-05-08T15:14:57Z",
+        "etiquetas": ["IA", "Videojuegos", "Inversión"],
+        "empresas": [
+          {
+            "nombre": "Altera",
+            "industria": "Investigación en IA",
+            "inversores": ["Eric Schmidt", "AI Ventures"]
+          }
+        ]
+      },
+      {
+        "fuente": {
+          "id": "techcrunch",
+          "nombre": "TechCrunch",
+          "categorias": ["Gadgets", "Apple"]
+        },
+        "autor": {
+          "nombre": "Alex Wilhelm",
+          "social": ["@alextech", "linkedin.com/in/alexwilhelm"]
+        },
+        "titulo": "¿Desde cuándo los iPads son tan caros como los MacBooks?",
+        "descripcion": "¿Cambiarías tu MacBook por un iPad con chip M4 y pantalla OLED?",
+        "url": "https://techcrunch.com/2024/05/08/techcrunch-minute-when-did-ipads-get-as-expensive-as-macbooks/",
+        "urlImagen": "https://techcrunch.com/wp-content/uploads/2024/05/ipad-noplay.png",
+        "publicadoEn": "2024-05-08T14:52:26Z",
+        "etiquetas": ["Apple", "iPad", "MacBook"],
+        "productos": [
+          {
+            "nombre": "iPad Pro M4",
+            "caracteristicas": ["Pantalla OLED", "Chip M4", "Soporte para Apple Pencil"],
+            "precio": 1299
+          },
+          {
+            "nombre": "MacBook Air M3",
+            "caracteristicas": ["Pantalla Retina", "Chip M3", "Touch ID"],
+            "precio": 1199
+          }
+        ]
+      },
+      {
+        "fuente": {
+          "id": "techcrunch",
+          "nombre": "TechCrunch",
+          "categorias": ["Negocios", "Transporte"]
+        },
+        "autor": {
+          "nombre": "Rebecca Bellan",
+          "social": ["@rebeccatech", "linkedin.com/in/rebeccabellan"]
+        },
+        "titulo": "Uber promete exclusivas para miembros mientras Uber One supera los $1B de ingresos",
+        "descripcion": "Uber planea ofrecer más beneficios a los miembros de Uber One, incluyendo eventos exclusivos.",
+        "url": "https://techcrunch.com/2024/05/08/uber-promises-member-exclusives-as-uber-one-passes-1b-run-rate/",
+        "urlImagen": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1142304853-a.jpg",
+        "publicadoEn": "2024-05-08T14:41:36Z",
+        "etiquetas": ["Uber", "Suscripciones", "Negocios"],
+        "servicios": [
+          {
+            "nombre": "Uber One",
+            "beneficios": ["Descuentos en viajes", "Soporte prioritario", "Eventos exclusivos"]
+          },
+          {
+            "nombre": "Uber Eats",
+            "beneficios": ["Entrega gratuita", "Descuentos exclusivos para miembros"]
+          }
+        ]
+      },
+      {
+        "fuente": {
+          "id": "theverge",
+          "nombre": "The Verge",
+          "categorias": ["Tecnología", "Redes Sociales"]
+        },
+        "autor": {
+          "nombre": "Sarah Perez",
+          "social": ["@sarahperez", "linkedin.com/in/sarahperez"]
+        },
+        "titulo": "Instagram prueba una nueva función de IA para mejorar fotos automáticamente",
+        "descripcion": "Meta está experimentando con herramientas de IA para mejorar fotos en Instagram con solo un clic.",
+        "url": "https://www.theverge.com/2024/05/08/instagram-ai-photo-enhancement",
+        "urlImagen": "https://www.theverge.com/wp-content/uploads/2024/05/instagram-ai-feature.jpg",
+        "publicadoEn": "2024-05-08T13:20:45Z",
+        "etiquetas": ["Instagram", "Meta", "Fotografía"],
+        "empresas": [
+          {
+            "nombre": "Meta",
+            "industria": "Redes Sociales",
+            "productos": ["Instagram", "Facebook", "WhatsApp"]
+          }
+        ]
+      },
+      {
+        "fuente": {
+          "id": "wired",
+          "nombre": "Wired",
+          "categorias": ["Ciberseguridad", "Tecnología"]
+        },
+        "autor": {
+          "nombre": "Lily Hay Newman",
+          "social": ["@lilynewman", "linkedin.com/in/lilyhaynewman"]
+        },
+        "titulo": "Hackers están usando IA para hacer ataques de phishing más efectivos",
+        "descripcion": "Expertos en ciberseguridad advierten sobre el uso de IA generativa para crear correos electrónicos de phishing más realistas.",
+        "url": "https://www.wired.com/story/ai-phishing-hacks/",
+        "urlImagen": "https://www.wired.com/wp-content/uploads/2024/05/ai-phishing.jpg",
+        "publicadoEn": "2024-05-08T12:55:30Z",
+        "etiquetas": ["Ciberseguridad", "Hacking", "Phishing"],
+        "empresas": [
+          {
+            "nombre": "CyberSafe",
+            "industria": "Seguridad Informática",
+            "productos": ["Anti-phishing AI", "Firewalls avanzados"]
+          }
+        ]
+      }
+    ]
+  }
+  
